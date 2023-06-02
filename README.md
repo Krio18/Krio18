@@ -8,6 +8,8 @@ Hello, my name is Killian Cottrelle and I am in first year at Epitech Lyon. Here
 ---------------------------------------------------------------------------------------------------------------------
 
 ![graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krio18&theme=dracula)
+![graph](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krio18&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Krio18&theme=dracula) 
 
 ---------------------------------------------------------------------------------------------------------------------
 
